@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathews Odongo
 ======================================================================================================================================
 
-i am data scientist who lovesTransforming raw data into actionable insights • Building ML pipelines that scale • Solving complex problems with elegant statistical models • Telling compelling stories through data visualization • Democratizing AI through open-source contributions
+i am data scientist who loves transforming raw data into actionable insights ,Building ML pipelines that scale , Solving complex problems with elegant statistical models , Telling compelling stories through data visualization and democratizing AI through open-source contributions
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Nairobi,Kenya
